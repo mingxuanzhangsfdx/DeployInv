@@ -16,44 +16,9 @@
                 <label>a</label>
             </value>
             <value>
-                <fullName>b</fullName>
-                <default>false</default>
-                <label>b</label>
-            </value>
-            <value>
-                <fullName>c</fullName>
-                <default>false</default>
-                <label>c</label>
-            </value>
-            <value>
-                <fullName>d</fullName>
-                <default>false</default>
-                <label>d</label>
-            </value>
-            <value>
-                <fullName>e</fullName>
-                <default>false</default>
-                <label>e</label>
-            </value>
-            <value>
                 <fullName>new Test</fullName>
                 <default>false</default>
                 <label>new Test</label>
-            </value>
-            <value>
-                <fullName>new Test One</fullName>
-                <default>false</default>
-                <label>new Test One</label>
-            </value>
-            <value>
-                <fullName>new Test two</fullName>
-                <default>false</default>
-                <label>new Test two</label>
-            </value>
-            <value>
-                <fullName>new Test three</fullName>
-                <default>false</default>
-                <label>new Test three</label>
             </value>
         </valueSetDefinition>
     </valueSet>
